@@ -1,0 +1,18 @@
+# Output products list for <OsziRAM>
+OsziRAM.asy
+OsziRAM.gise
+OsziRAM.ise
+OsziRAM.ngc
+OsziRAM.sym
+OsziRAM.v
+OsziRAM.veo
+OsziRAM.vhd
+OsziRAM.vho
+OsziRAM.xco
+OsziRAM.xise
+OsziRAM_flist.txt
+OsziRAM_readme.txt
+OsziRAM_xdb\tmp\
+OsziRAM_xmdf.tcl
+_xmsgs\
+blk_mem_gen_ds512.pdf
